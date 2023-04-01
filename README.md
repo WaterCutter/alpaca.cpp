@@ -44,7 +44,7 @@ make chat
 - Run the following commands one by one:
 
 ```ps1
-cmake .
+cmake -G "MinGW Makefiles" .
 cmake --build . --config Release
 ```
 
