@@ -39,7 +39,7 @@ make chat
 - Download and install CMake: <https://cmake.org/download/>
 - Download and install `git`. If you've never used git before, consider a GUI client like <https://desktop.github.com/>
 - Clone this repo using your git client of choice (for GitHub Desktop, go to File -> Clone repository -> From URL and paste `https://github.com/antimatter15/alpaca.cpp` in as the URL)
-- 安装gcc运行时[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/),此链接中选择MinGW-W64 GCC-8.1.0 x86_64-posix-seh下载，添加x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin到系统路径Path即可
+- 安装gcc运行时[MinGW](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/),此链接中选择MinGW-W64 GCC-8.1.0 x86_64-posix-seh下载，添加x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin到系统路径Path即可（要记得重启以使之）
 - Open a Windows Terminal inside the folder you cloned the repository to
 - Run the following commands one by one:
 
